@@ -226,7 +226,7 @@
   <div style="text-align: center;">
     <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1751171170/IMG_20250629_095142_puzohw.png" alt="Saleem" style="border-radius: 15px; max-width: 300px; box-shadow: 0 4px 100px rgba(0,0,0,0.2);" />
     <h4>Waseem</h4>
-    <p style="max-width: 150px; font-size: 0.9em;"> <center>3+ years of experience in trout farming. Trusted by local and commercial clients across Kashmir.</p></center>
+    <p style="max-width: 150px; font-size: 0.9em;"> <center>3+ years of experience in trout farming. Trusted by local and commercial clients across Kashmir.</center>
   </div>
 
   <!-- Inquiry Form -->
@@ -260,7 +260,8 @@
     </div>  
   </section>    <section id="contact">  
     <h2>Contact Us</h2>  
-    <p>📞 9682361172<br>📧 GMAIL:saleemmir1855@gmail.com<br>📍 Bandipora, Kashmir</p>  
+    <p>📞 9682361172<br>📧 GMAIL:saleemmir1855@gmail.com<br>
+      <br>Gmail:meerwaseem698@gmail.com</p></br>📍 Bandipora, Kashmir</p>  
     <iframe src="https://maps.google.com/maps?q=highschool chanpal chattibandi &t=&z=13&ie=UTF8&iwloc=&output=embed" width="300" height="200" style="border:0;" loading="lazy"></iframe>  
   </section>    <footer>&copy; 2025 Bandipora Fish Valley. All rights reserved.</footer>    <script>  
     function sendWhatsApp(event) {  
@@ -270,7 +271,7 @@
       const quantity = document.getElementById('quantity').value;  
       const message = document.getElementById('message').value;  
       const fullMessage = `🐟 *Fish Inquiry - Bandipora Fish Valley* 🐟\n\n👤 Name: ${name}\n📞 Phone: ${phone}\n📦 Order: ${quantity}\n📝 Message: ${message}`;  
-      const url = `https://wa.me/919682361172?text=${encodeURIComponent(fullMessage)}`;  
+      const url = `https://wa.me/9149915607?text=${encodeURIComponent(fullMessage)}`;  
       window.open(url, '_blank');  
     }  
   

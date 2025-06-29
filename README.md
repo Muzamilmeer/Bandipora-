@@ -220,19 +220,22 @@
         <button class="button" onclick="buyNow('Live Trout')">Buy Now</button>  
       </div>  
     </div>  
-  </section>    <section id="form" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 30px; padding: 40px 20px;">
-  
-  <!-- Left Dealer - waseem -->
-  <div style="text-align: center;">
-    <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1751171170/IMG_20250629_095142_puzohw.png" alt="Saleem" style="border-radius: 15px; max-width: 300px; box-shadow: 0 4px 100px rgba(0,0,0,0.2);" />
-    <h4>Waseem</h4>
-    <p style="max-width: 150px; font-size: 0.9em;"> <center>3+ years of experience in trout farming. Trusted by local and commercial clients across Kashmir.</center>
+  </section> <section id="form" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 30px; padding: 40px 20px;">
+
+  <!-- Left Dealer - Saleem -->
+  <div class="dealer-card" style="text-align: center; padding: 15px; border-radius: 15px; background: #fff; max-width: 180px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: all 0.3s;">
+    <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1751171172/IMG_20250629_095415_i8gy5w.png" alt="Saleem" style="border-radius: 15px; max-width: 150px; height: 200px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+    <h4>Saleem</h4>
+    <p style="max-width: 150px; font-size: 0.9em;">Young entrepreneur passionate about high-quality trout distribution and fish farm development in Bandipora.</p>
+    <a href="https://wa.me/919682361172" target="_blank" style="display: inline-block; margin-top: 5px;">
+      <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="40" height="40">
+    </a>
   </div>
 
   <!-- Inquiry Form -->
   <div>
     <h2>Inquiry Form</h2>
-    <form onsubmit="sendWhatsApp(event)">
+    <form onsubmit="sendWhatsApp(event)" style="background: white; padding: 30px; margin-top: 20px; display: inline-block; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); max-width: 400px; width: 100%;">
       <input type="text" id="name" placeholder="Your Name" required>
       <input type="tel" id="phone" placeholder="Phone Number" required>
       <input type="text" id="quantity" placeholder="Quantity / Type of Fish" required>
@@ -241,18 +244,17 @@
     </form>
   </div>
 
-  <!-- Right Dealer - saleem-->
-  <div style="text-align: center;">
-    <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1751171172/IMG_20250629_095415_i8gy5w.png" alt="Waseem" style="border-radius: 15px; max-width: 300px; box-shadow: 0 4px 100px rgba(0,0,0,0.2);" />
-    <h4>saleem</h4>
-    <p style="max-width: 150px; font-size: 0.9em;"><center>Young entrepreneur passionate about high-quality trout distribution and fish farm development in Bandipora.</p></center>
-      <section id="gallery" class="gallery-section">  
-    <h2>🐠 Trout Fish Benefits & Gallery</h2>  
-    <p>Trout is rich in omega-3 & protein. Farming done in Bandipora’s clean, fresh water.</p>  
-    <div class="gallery-images">  
-      <!-- Add gallery images here -->  
-    </div>  
-  </section>    <section>  
+  <!-- Right Dealer - Waseem -->
+  <div class="dealer-card" style="text-align: center; padding: 15px; border-radius: 15px; background: #fff; max-width: 180px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: all 0.3s;">
+    <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1751171170/IMG_20250629_095142_puzohw.png" alt="Waseem" style="border-radius: 15px; max-width: 150px; height: 200px; object-fit: cover; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+    <h4>Waseem</h4>
+    <p style="max-width: 150px; font-size: 0.9em;">10+ years of experience in trout farming. Trusted by local and commercial clients across Kashmir..</p>
+    <a href="https://wa.me/919149915607" target="_blank" style="display: inline-block; margin-top: 5px;">
+      <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="40" height="40">
+    </a>
+  </div>
+
+</section> <section>  
     <h2>🗣️ What Our Customers Say</h2>  
     <div class="testimonial">  
       <p>"Best fish quality in Kashmir! Highly recommended."</p>  

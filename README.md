@@ -226,7 +226,7 @@
   <div style="text-align: center;">
     <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1751171170/IMG_20250629_095142_puzohw.png" alt="Saleem" style="border-radius: 15px; max-width: 300px; box-shadow: 0 4px 100px rgba(0,0,0,0.2);" />
     <h4>Waseem</h4>
-    <p style="max-width: 150px; font-size: 0.9em;"> <center>3+ years of experience in trout farming. Trusted by local and commercial clients across Kashmir.</p></center>
+    <p style="max-width: 150px; font-size: 0.9em;"> <center>3+ years of experience in trout farming. Trusted by local and commercial clients across Kashmir.</center>
   </div>
 
   <!-- Inquiry Form -->
@@ -245,7 +245,7 @@
   <div style="text-align: center;">
     <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1751171172/IMG_20250629_095415_i8gy5w.png" alt="Waseem" style="border-radius: 15px; max-width: 300px; box-shadow: 0 4px 100px rgba(0,0,0,0.2);" />
     <h4>saleem</h4>
-    <p style="max-width: 150px; font-size: 0.9em;"><center>Young entrepreneur passionate about high-quality trout distribution and fish farm development in Bandipora.</p></center>
+    <p style="max-width: 150px; font-size: 0.9em;"><center>Young entrepreneur passionate about high-quality trout distribution and fish farm development in Bandipora.</center>
   </div>
 
 </section>    <section id="gallery" class="gallery-section">  
@@ -290,5 +290,5 @@
       document.getElementById('loader').style.display = 'none';  
     };  
   </script>  </body>  
-</html>  Is ma
+
 

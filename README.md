@@ -260,7 +260,7 @@
     </div>  
   </section>    <section id="contact">  
     <h2>Contact Us</h2>  
-    <p>📞 9682361172<br>📧 GMAIL:saleemmir1855@gmail.com<br>
+    <p>📞 9149915607<br>📧 GMAIL:saleemmir1855@gmail.com<br>
       <br>Gmail:meerwaseem698@gmail.com</p></br>📍 Bandipora, Kashmir</p>  
     <iframe src="https://maps.google.com/maps?q=highschool chanpal chattibandi &t=&z=13&ie=UTF8&iwloc=&output=embed" width="300" height="200" style="border:0;" loading="lazy"></iframe>  
   </section>    <footer>&copy; 2025 Bandipora Fish Valley. All rights reserved.</footer>    <script>  
@@ -277,7 +277,7 @@
   
     function buyNow(fishName) {  
       const fullMessage = `🐟 *Buy Now - Bandipora Fish Valley* 🐟\n\n🛒 Fish: ${fishName}\n📦 Please provide your quantity and delivery details.`;  
-      const url = `https://wa.me/919682361172?text=${encodeURIComponent(fullMessage)}`;  
+      const url = `https://wa.me/9149915607?text=${encodeURIComponent(fullMessage)}`;  
       window.open(url, '_blank');  
     }  
   

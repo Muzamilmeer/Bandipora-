@@ -281,6 +281,8 @@
       const fullMessage = `🐟 *Buy Now - Bandipora Fish Valley* 🐟\n\n🛒 Fish: ${fishName}\n📦 Please provide your quantity and delivery details.`;  
       const url = `https://wa.me/9682361172?text=${encodeURIComponent(fullMessage)}`;  
       window.open(url, '_blank');  
+      const url = `https://wa.me9149915607/?text=${encodeURIComponent(fullMessage)}`;  
+      window.open(url, '_blank');  
     }  
   
     function toggleDarkMode() {  

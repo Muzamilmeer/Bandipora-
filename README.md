@@ -228,7 +228,7 @@
     </div>
   </section>
 <section id="form" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://via.placeholder.com/150x200?text=Left+Image" alt="Left Side" style="border-radius: 15px; max-width: 150px;" />
+  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1751171170/IMG_20250629_095142_puzohw.png" alt="Left Side" style="border-radius: 15px; max-width: 150px;" />
   
   <div>
     <h2>Inquiry Form</h2>
@@ -241,7 +241,7 @@
     </form>
   </div>
 
-  <img src="https://via.placeholder.com/150x200?text=Right+Image" alt="Right Side" style="border-radius: 15px; max-width: 150px;" />
+  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1751171172/IMG_20250629_095415_i8gy5w.png" alt="Right Side" style="border-radius: 15px; max-width: 150px;" />
 </section>
 
   <section id="gallery" class="gallery-section">
